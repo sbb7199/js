@@ -1,0 +1,98 @@
+{
+
+    "accountInfo": {
+
+        "allLanguageObjects": [
+
+            {
+
+                "checkedByDefault": true,
+
+                "id": 22,
+
+                "isoValue": "ar",
+
+                "localizedName": "اللغة العربية",
+
+                "name": "Arabic"
+
+            },
+
+            {
+
+                "checkedByDefault": true,
+
+                "id": 2,
+
+                "isoValue": "en",
+
+                "localizedName": "اللغة الإنجليزية",
+
+                "name": "English"
+
+            }
+
+        ],
+
+        "allLanguages": [],
+
+        "connectedSocialId": null,
+
+        "countryId": 112,
+
+        "countryIso": "eg",
+
+        "createdAt": "2023-05-26T13:48:34",
+
+        "eligibleForTrial": false,
+
+        "email": "abdelhakimmezache40@gmail.com",
+
+        "emailVerified": false,
+
+        "enthusiast": false,
+
+        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMDcxMzQzNSIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg1NzYzMjcxLCJzZXhwIjoxNjg1NzYzNTcxLCJleHAiOjE2ODkyMTkyNzEsImlzcyI6IlNUSFAiLCJjaWQiOiIxMDcxMzQzNSIsInN0b3JlIjoiU1RIUC1FRyIsImNvdW50cnlJZCI6IjExMiIsImJhc2VQcm9kdWN0cyI6WyJVTkxJTUlURUQiXX0.OJItlW2MhnjH94mkjciSQO35XtxnNrquUuIgZHmpjZY",
+
+        "lang": "ar",
+
+        "loginStatus": 5,
+
+        "loginStatusEnum": "PREMIUM",
+
+        "maximumNumberOfflineBooks": 100,
+
+        "paymentIssues": false,
+
+        "phoneNumber": "abdelhakimmezache40@gmail.com",
+
+        "preview": false,
+
+        "refreshToken": null,
+
+        "singleSignToken": "F50hKUPzJqJw6jdO4_YFdAamRN2mqWPp",
+
+        "userId": 10713435
+
+    },
+
+    "customerCurrentLocation": "FR",
+
+    "customerId": 0,
+
+    "lang": null,
+
+    "message": "PREMIUM",
+
+    "optionalBooks": -1,
+
+    "premiumRealised": true,
+
+    "result": "success",
+
+    "serverDateMillis": 1685731225
+
+}
+
+
+    
