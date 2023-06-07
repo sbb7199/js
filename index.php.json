@@ -38,21 +38,21 @@
 
         "connectedSocialId": null,
 
-        "countryId": 112,
+        "countryId": 242,
 
-        "countryIso": "eg",
+        "countryIso": "ae",
 
-        "createdAt": "2023-05-26T13:48:34",
+        "createdAt": "2023-01-28T22:15:26",
 
         "eligibleForTrial": false,
 
-        "email": "abdelhakimmezache40@gmail.com",
+        "email": "abdelhakimmezache3@gmail.com",
 
         "emailVerified": false,
 
         "enthusiast": false,
 
-        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMDcxMzQzNSIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg1NzYzMjcxLCJzZXhwIjoxNjg1NzYzNTcxLCJleHAiOjE2ODkyMTkyNzEsImlzcyI6IlNUSFAiLCJjaWQiOiIxMDcxMzQzNSIsInN0b3JlIjoiU1RIUC1FRyIsImNvdW50cnlJZCI6IjExMiIsImJhc2VQcm9kdWN0cyI6WyJVTkxJTUlURUQiXX0.OJItlW2MhnjH94mkjciSQO35XtxnNrquUuIgZHmpjZY",
+        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0MjcwNTcyNCIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2MDk3ODg2LCJzZXhwIjoxNjg2MDk4MTg2LCJleHAiOjE2ODk1NTM4ODYsImlzcyI6IlNUSFAiLCJjaWQiOiI0MjcwNTcyNCIsInN0b3JlIjoiU1RIUC1BUkFCSUEiLCJjb3VudHJ5SWQiOiIyNDIiLCJiYXNlUHJvZHVjdHMiOlsiVU5MSU1JVEVEIl19.ToGg5HL9RPD8Zz9L9-4wOUtyR4XnLcMwSvYJJQmZJd8",
 
         "lang": "ar",
 
@@ -64,7 +64,7 @@
 
         "paymentIssues": false,
 
-        "phoneNumber": "abdelhakimmezache40@gmail.com",
+        "phoneNumber": "abdelhakimmezache3@gmail.com",
 
         "preview": false,
 
@@ -72,7 +72,7 @@
 
         "singleSignToken": "F50hKUPzJqJw6jdO4_YFdAamRN2mqWPp",
 
-        "userId": 10713435
+        "userId": 42705724
 
     },
 
