@@ -52,7 +52,7 @@
 
         "enthusiast": false,
 
-        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0MjcwNTcyNCIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2MDk3ODg2LCJzZXhwIjoxNjg2MDk4MTg2LCJleHAiOjE2ODk1NTM4ODYsImlzcyI6IlNUSFAiLCJjaWQiOiI0MjcwNTcyNCIsInN0b3JlIjoiU1RIUC1BUkFCSUEiLCJjb3VudHJ5SWQiOiIyNDIiLCJiYXNlUHJvZHVjdHMiOlsiVU5MSU1JVEVEIl19.ToGg5HL9RPD8Zz9L9-4wOUtyR4XnLcMwSvYJJQmZJd8",
+        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0NDg0NTQ1OSIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg2Mzk2MTg4LCJzZXhwIjoxNjg2Mzk2NDg4LCJleHAiOjE2ODk4NTIxODgsImlzcyI6IlNUSFAiLCJjaWQiOiI0NDg0NTQ1OSIsInN0b3JlIjoiU1RIUC1FRyIsImNvdW50cnlJZCI6IjExMiIsImJhc2VQcm9kdWN0cyI6WyJVTkxJTUlURUQiXX0.cmygXiGkZpk1DlGUR20dZqIgYL4yUIWei8qD31_F4iQ",
 
         "lang": "ar",
 
@@ -70,7 +70,7 @@
 
         "refreshToken": null,
 
-        "singleSignToken": "MX6hoUEJI_ejaHU_V7MF1m1URj3tsFil",
+        "singleSignToken": "9Y3QpORFeeuW4lcqX4op7LtmPBJ4HEV8",
 
         "userId": 42705724
 
